@@ -1,1 +1,1 @@
-# selectionsortvisualization
+This is used to demonstrate how selection sort works
