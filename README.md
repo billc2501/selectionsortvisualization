@@ -1,1 +1,1 @@
-This is used to demonstrate how selection sort works
+This sorting graph simulates the movements of elements in an array when selection sort is called.
